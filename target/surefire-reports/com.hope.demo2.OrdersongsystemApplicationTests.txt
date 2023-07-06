@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hope.demo2.OrdersongsystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.004 s <<< FAILURE! - in com.hope.demo2.OrdersongsystemApplicationTests
+com.hope.demo2.OrdersongsystemApplicationTests  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Lcom/hope/dao/KnowledgeDao;
+Caused by: java.lang.ClassNotFoundException: com.hope.dao.KnowledgeDao
+
